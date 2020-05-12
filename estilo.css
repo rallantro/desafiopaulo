@@ -1,8 +1,15 @@
+body, html {
+    height: 100%;
+  }
+  
+* {
+    box-sizing: border-box;
+}
 .back{
-      background-image: url(matrix.jpg);
-      filter: blur(8px);
-      height: 100%;
+    background-image: url(matrix.jpg);
+    filter: blur(8px);
+    height: 100%;
 }
 .texto{
-    color: red;
+  color: red;
 }
