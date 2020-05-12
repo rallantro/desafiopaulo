@@ -1,4 +1,4 @@
-.background{
+body{
     background-image: url(matrix.jpg);
     filter: blur(8px);
 }
